@@ -21,13 +21,11 @@ Nike Limited UI is a frontend UI project that replicates a Nike-style limited ed
 - Google Fonts
   
 ## 📂 Folder Structure
-Nike-Limited-UI/
-│
-├── index.html
-├── style.css
-├── assets/
-│ └── images/
-└── README.md
+
+index.html/
+style.css/
+images/
+README.md
 
 ##👨‍💻 Author
 venkatesh
