@@ -3,7 +3,9 @@ Nike Limited UI is a frontend UI project that replicates a Nike-style limited ed
 
 ## 📸 Preview
 
-[Live Preview]([https://venkatesh.github.io/nike-limited-ui/](https://github.com/offlvenkatesh/Nike-Limited-UI/blob/cdb42b3043cebe4527b9126eed8606b49dab4352/preview.png))
+Live preview
+![image alt](https://github.com/offlvenkatesh/youtube-ui-clone/blob/b4fc10d7fb083266b691475ee136fc40d52a6829/preview.png)
+
 
 ## ✨ Features
 
